@@ -5,10 +5,28 @@
  * name: Ethan Hickman
  * email: hickmaet@oregonstate.edu
  */
-body
+header
 {
-  background-color: #FFFFFF;
-  margin: 0;
-  width: 0 auto;
-  font-family: 'Roboto Slab', serif;
+  height: 150px;
+  background-color: #000;
+  border: 10px solid #000;
 }
+  .header-image-container
+  {
+    float:left'
+    margin-right: 20px;
+  }
+  .site-title
+  {
+    font-size: 75px;
+    font-weight: 100;
+  }
+  .site-title a:hover
+  {
+    cursor: pointer;
+  }
+  .site-title a:active
+  {
+  color: #FFFFFF;
+  text-decoration: none;
+  }
