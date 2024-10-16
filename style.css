@@ -12,3 +12,11 @@ html {
   font-size: 16px;
   color:rgba(128,0,128,0.5)
 }
+
+body
+{
+  background-color: #FFFFFF;
+  margin: 0;
+  width: 0 auto;
+  font-family: 'Roboto Slab', serif;
+}
