@@ -2,6 +2,13 @@
  * You should write your CSS in this file.  Don't forget to add your name and
  * @oregonstate.edu email address below.
  *
- * name:
- * email:
+ * name: Ethan Hickman
+ * email: hickmaet@oregonstate.edu
  */
+
+html {
+  font-family: "Roboto", sans-serif;
+  font-weight:900;
+  font-size: 16px;
+  color:rgba(128,0,128,0.5)
+}
