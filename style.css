@@ -13,7 +13,7 @@ header
 }
   .header-image-container
   {
-    float: left
+    float: left;
     margin-right: 20px;
   }
   .site-title
