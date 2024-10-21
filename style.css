@@ -35,3 +35,13 @@ header
     display: flex;
     flex-wrap: wrap;
   }
+  #results .result
+  {
+    width: 335px;
+    height: 300px;
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #D3D3D3;
+    border-radius: 2px;
+    background-color: #FFFFFF;
+  }
