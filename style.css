@@ -27,6 +27,11 @@ header
   }
   .site-title a:active
   {
-  color: #FFFFFF;
-  text-decoration: none;
+    color: #FFFFFF;
+    text-decoration: none;
+  }
+  #results
+  {
+    display: flex;
+    flex-wrap: wrap;
   }
