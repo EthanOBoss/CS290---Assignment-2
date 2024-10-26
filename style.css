@@ -60,3 +60,31 @@ header
    border-radius: 2px;
    background-color: #EFEFEF;
   }
+#filter-update-button
+ {
+   background-color: #000;
+   border: 1px solid #000;
+   border-radius: 5px;
+   color: #FFFFFF;
+   padding: 10px 64px;
+   text-decoration: none;
+   font-size: 20px;
+   font-weight: 100;
+   margin: 5px;
+   position: relative;
+   top: -65px;
+   left: 11px;
+ }
+ #filter-update-button:hover
+ {
+   background-color: #E37115;
+   color: #000;
+   font-weight: 100;
+   cursor: pointer;
+ }
+ #filter-update-button:active
+ {
+   background-color: #E37115;
+   color: #000;
+   font-weight: 100;
+ }
