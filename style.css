@@ -41,6 +41,11 @@ header
     color: #FFFFFF;
     text-decoration: none;
   }
+  #results
+  {
+   display: flex;
+   flex-wrap: wrap;
+  }
   #results .result
   {
     width: 335px;
