@@ -201,15 +201,3 @@ label[for=filter-text]
   position: relative;
   left: 10px;
 }
-
-#post
-{
-  display: flex;
-}
-
-#post-image-container
-{
-  position: relative;
-  width: 30px;
-  height: 15px;
-}
