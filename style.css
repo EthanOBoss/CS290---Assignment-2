@@ -84,7 +84,6 @@ header
    margin: 5px;
    position: relative;
    top: -65px;
-   left: 5px;
  }
  #filter-update-button:hover
  {
@@ -141,7 +140,7 @@ label[for=filter-city]
 {
   position: relative;
   top: -69px;
-  left: 40px;
+  left: 35px;
   width: 152px;
 }
 
