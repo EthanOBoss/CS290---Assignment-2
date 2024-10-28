@@ -117,4 +117,72 @@ header
   cursor: pointer;
 }
 
-Here is some stuff I am writing
+label[for=filter-city]
+{
+  font-size: 16px;
+  position: relative;
+  top: -47px;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+
+#filter-city
+{
+  position: relative;
+  top: -69px;
+  left: 40px;
+  width: 152px;
+}
+
+#filter-condition
+{
+  position: relative;
+  top: -68px;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+label[for=filter-min-price]
+{
+  font-size: 16px;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+
+#filter-min-price
+{
+  position: relative;
+  top: -21px;
+  left: 50px;
+  width: 57px;
+}
+
+#filter-max-price
+{
+  position: relative;
+  top: -42px;
+  left: 120px;
+  width: 57px;
+}
+.filter-container h2
+{
+  position: relative;
+  left: 16px;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+
+label[for=filter-text]
+{
+  position: relative;
+  top: 2px;
+  float: left;
+  font-size: 16px;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+
+#filter-text
+{
+  position: relative;
+  left: 10px;
+}
