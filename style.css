@@ -46,7 +46,7 @@ header
    display: flex;
    flex-wrap: wrap;
   }
-  #post-contents
+  #post .post
   {
     width: 335px;
     height: 300px;
@@ -56,7 +56,7 @@ header
     border-radius: 2px;
     background-color: #FFFFFF;
   }
-  #post-image-container
+  #post img
   {
    max-width: 310px;
    max-height: 270px;
