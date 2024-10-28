@@ -41,12 +41,12 @@ header
     color: #FFFFFF;
     text-decoration: none;
   }
-  #results
+  #post
   {
    display: flex;
    flex-wrap: wrap;
   }
-  #results .result
+  #post-contents
   {
     width: 335px;
     height: 300px;
@@ -56,7 +56,7 @@ header
     border-radius: 2px;
     background-color: #FFFFFF;
   }
-  #results img
+  #post-image-container
   {
    max-width: 310px;
    max-height: 270px;
